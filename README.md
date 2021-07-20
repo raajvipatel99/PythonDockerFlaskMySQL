@@ -6,3 +6,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 #Query Screenshot
 ![citiesData Table](screenshots/query.png)
+
+#Jinja Screenshot
+![Display](screenshots/jinja.png)
