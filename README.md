@@ -9,3 +9,5 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 #Jinja Screenshot
 ![Display](screenshots/jinja.png)
+
+#Home Page
